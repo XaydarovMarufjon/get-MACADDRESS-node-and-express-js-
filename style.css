@@ -1,0 +1,59 @@
+*{
+    margin: 0 auto;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+#ter{
+    margin: 60px auto;
+    z-index: 3;
+width: 17%;
+height:300px ;
+border: 2px solid black;
+border-radius: 10px;
+background-color: antiquewhite;
+position: relative;
+}
+/* .check{
+    width:68% ;
+    height: 120px;
+    z-index: 2;
+background-color: aliceblue;
+border-radius: 1px;
+} */
+.friton1{
+    width: 70%;
+    border: 2px solid red;
+    margin-top:10px ;
+    z-index: 1;
+}
+.friton2{
+    width: 70%;
+    height: 5px;
+    border: 2px solid red;
+    border-top: none;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 3;
+}
+.fri{
+    width: 100%;
+    height: 70%;
+}
+.fri input{
+    width: 90%;
+   margin:10px;
+}
+.delta {
+    margin: 2px 1.7px;
+   
+}
+
+.fri button {
+width: 30%;
+height: 15%;
+}
+.oplata{
+
+    margin: 0 30px;
+}
